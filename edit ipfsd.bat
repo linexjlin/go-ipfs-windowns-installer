@@ -1,0 +1,2 @@
+nssm edit ipfsd
+pause

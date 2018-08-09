@@ -1,2 +1,3 @@
-set IPFS_PATH=d:/ipfs
+@setlocal enableextensions
+@cd /d "%~dp0"
 cmd

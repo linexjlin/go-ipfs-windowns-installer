@@ -5,4 +5,5 @@ This use this package, just click the **install.bat** and run as Administrator. 
 
 # IPFS Plugin
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/ipfs-companion/
+
 Chrome: https://chrome.google.com/webstore/detail/ipfs-companion/nibjojkomfdiaoajekhjakgkdhaomnch?hl=en
